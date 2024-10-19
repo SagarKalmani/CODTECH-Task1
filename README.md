@@ -1,7 +1,7 @@
 Name:SAGAR KALMANI  
 Company:CODETECHIT SOLUTIONS  
 ID:CTO2585DS8899  
-Domain:DATA ANALYSIS  
+Domain:POWER BI
 Duration:October 5th to November 5th 2004  
 Mentior:Neela Santhosh Kumar  
 ##OUTPUT##
