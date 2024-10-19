@@ -1,9 +1,9 @@
 Name:SAGAR KALMANI  
-Company:CODETECHIT SOLUTIONS
-ID:CTO2585DS8899
-Domain:DATA ANALYSIS
-Duration:October 5th to November 5th 2004
-Mentior:Neela Santhosh Kumar
+Company:CODETECHIT SOLUTIONS  
+ID:CTO2585DS8899  
+Domain:DATA ANALYSIS  
+Duration:October 5th to November 5th 2004  
+Mentior:Neela Santhosh Kumar  
 
 I am excited to share the latest project I completed as part of my Power BI internship at CODTECH IT SOLUTIONS This dashboard provides insights into financial data, focusing on revenue breakdowns and regional analysis.
 
