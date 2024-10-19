@@ -4,6 +4,8 @@ ID:CTO2585DS8899
 Domain:DATA ANALYSIS  
 Duration:October 5th to November 5th 2004  
 Mentior:Neela Santhosh Kumar  
+##OUTPUT##
+![Screenshot 2024-10-19 111915](https://github.com/user-attachments/assets/90e2da55-9c65-43f8-bd2a-47b98f90b099)
 
 
 
